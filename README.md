@@ -53,6 +53,9 @@ MATERIAL Y EQUIPO DE APOYO
 
    <img src="Capturas/elementos.PNG" >
    
+   <img src="Capturas/materiaes%20doc.PNG" >
+   
+   
 PROCEDIMIENTO
 
  Arme el circuito que se muestra en la figura 1.1
