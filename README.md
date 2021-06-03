@@ -14,7 +14,7 @@ Deben presentar directa relación con el tema de investigación y entre sí mism
 
 2. **MARCO TEÓRICO (RESUMEN)**
 Capturas/resolucion%20ejer.png
-<img src="Capturas/resolucion%20ejer.png" width=400>
+<img src="Capturas/resolucion%20ejer.png" width=1000>
 
 Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
 
