@@ -4,9 +4,7 @@
                           
  **Docente:**     Ing. Darwin Alulema            
                     
- **Integrantes:** Mera Erick,
-							    Quilumbaquin Lenin,
-							    Vallejo Keily
+ **Integrantes:** Mera Erick, Quilumbaquin Lenin, Vallejo Keily
                   
  **Semestre:**    Segundo
  
@@ -57,9 +55,20 @@ Se describe la teoría o conjunto teórico apropiado con la cual el investigador
 
 5. **CONCLUSIONES**
 
-      La corriente que entró a las nodos a y b no se almacenaron, por el contrario se distribuye por las ramas que conforman el nodo. Es decir, no se alamcena nada en la fuente. En el circuito mixto de la práctica se evidencia que la corriente que sale en el nodo "b" es IT e I1 y entra I2 de modo que se equilibra la corriente demostrando la primera ley de kirchoff. 
+- La corriente que entró a las nodos a y b no se almacenaron, por el contrario se distribuye por las ramas que conforman el nodo. Es decir, no se alamcena nada en la fuente. En el circuito mixto de la práctica se evidencia que la corriente que sale en el nodo "b" es IT e I1 y entra I2 de modo que se equilibra la corriente demostrando la primera ley de kirchoff. 
       
-      El voltaje de entrada que tuvo el ciruito mixto fue uno igual a 10 V. Las caidas de potencial se representan como la pérdida de energía debido a las resistencias cuando sobre ellas pasa una corriente. En la trayectoria una conformada por la R1, R5 y RB. Aquello que se encarga en la entrada de electrónes en un circuito como una batería, se tiene que equilibrar con todo lo que se está perdiendo en las caídas de potencial por las resistencias. Las resistencias se encargan de abosrben la energía y hace que la corriente se frene y a consecuencia de eso hay una caída de voltaje. Los 10 Volts de entrada se consumieron en el circuito. 
+- El voltaje de entrada que tuvo el ciruito mixto fue uno igual a 10 V. Las caidas de potencial se representan como la pérdida de energía debido a las resistencias cuando sobre ellas pasa una corriente. En la trayectoria una conformada por la R1, R5 y RB. Aquello que se encarga en la entrada de electrónes en un circuito como una batería, se tiene que equilibrar con todo lo que se está perdiendo en las caídas de potencial por las resistencias. Las resistencias se encargan de abosrben la energía y hace que la corriente se frene y a consecuencia de eso hay una caída de voltaje. Los 10 Volts de entrada se consumieron en el circuito. 
+
+- Con la práctica de laboratorio aprendimos que las leyes de Kirchhoff son una herramienta muy útil para analizar los circuitos de una manera sencilla. Se encontró de forma teórica los valores de corriente que fluye por el circuito y las caídas de voltaje que se producen a causa de las resistencias. 
+
+- Conocimos más sobre estas leyes y cómo funcionan cada una, a la hora de realizar el circuito en el emulador.
+
+- Se concluyó que la medicon de las trayectorias ,la cantidad de corriente que entra y sale existe.
+
+- La entrada de corriente de una trayectoria se complementa de izquierda a derecha es decir que el exceso de  una trayectoria 1 se dirige a la  trayectoria 2 y el exceso de
+
+
+
       
 
 
