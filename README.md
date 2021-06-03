@@ -51,33 +51,33 @@ Se describe la teoría o conjunto teórico apropiado con la cual el investigador
    
 MATERIAL Y EQUIPO DE APOYO
 
-   <img src="Capturas/elementos.PNG" width=400>
+   <img src="Capturas/elementos.PNG" >
    
 PROCEDIMIENTO
 
  Arme el circuito que se muestra en la figura 1.1
-   <img src="Capturas/circuito%20sin%20nadax2.PNG" width=800>
+   <img src="Capturas/circuito%20sin%20nadax2.PNG" >
    
-   <img src="Capturas/circuito%20sin%20nada.PNG" width=400>
+   <img src="Capturas/circuito%20sin%20nada.PNG">
    
 Medición del voltaje y corriente en cada uno de los elementos del circuito. 
 Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
 
-   <img src="Capturas/tabla%201.PNG" width=400>
+   <img src="Capturas/tabla%201.PNG" >
    
    Tabla 1.2 Verificación de la LVK
    
-   <img src="Capturas/tabla%202.PNG" width=400>
+   <img src="Capturas/tabla%202.PNG" >
    
    Tabla 1.3 Verificación de la LCK
    
-   <img src="Capturas/tabla%203.PNG" width=400>
+   <img src="Capturas/tabla%203.PNG" >
    
    Comparación de resultados medidos con los valores obtenidos al analizar el circuito analíticamente. 
    
-   <img src="Capturas/voltaje.PNG" width=400>
+   <img src="Capturas/voltaje.PNG" >
    
-   <img src="Capturas/intensidad.PNG" width=400>
+   <img src="Capturas/intensidad.PNG" >
   
 4. **VIDEO**
 
