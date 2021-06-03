@@ -47,36 +47,40 @@ Se describe la teoría o conjunto teórico apropiado con la cual el investigador
 +Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
 
 3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
-   <img src="Capturas/resolucion%20ejer.png" width=1000>
+   <img src="Capturas/xoMHTRV0Xt.png" width=1000>
    
 MATERIAL Y EQUIPO DE APOYO
 
-   <img src="Capturas/elementos.PNG" >
-   
    <img src="Capturas/materiaes%20doc.PNG" >
    
    
 PROCEDIMIENTO
 
  Arme el circuito que se muestra en la figura 1.1
+ 
    <img src="Capturas/circuito%20sin%20nadax2.PNG" >
+   
+   Materiales
+   
+   <img src="Capturas/elementos.PNG" >
    
    <img src="Capturas/circuito%20sin%20nada.PNG">
    
-Medición del voltaje y corriente en cada uno de los elementos del circuito. 
-Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
+  Medición del voltaje y corriente en cada uno de los elementos del circuito.
+  
+ Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
 
    <img src="Capturas/tabla%201.PNG" >
    
-   Tabla 1.2 Verificación de la LVK
+ Tabla 1.2 Verificación de la LVK
    
    <img src="Capturas/tabla%202.PNG" >
    
-   Tabla 1.3 Verificación de la LCK
+ Tabla 1.3 Verificación de la LCK
    
    <img src="Capturas/tabla%203.PNG" >
    
-   Comparación de resultados medidos con los valores obtenidos al analizar el circuito analíticamente. 
+ Comparación de resultados medidos con los valores obtenidos al analizar el circuito analíticamente. 
    
    <img src="Capturas/voltaje.PNG" >
    
