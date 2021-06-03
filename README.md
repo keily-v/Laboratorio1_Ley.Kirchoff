@@ -48,9 +48,38 @@ Se describe la teoría o conjunto teórico apropiado con la cual el investigador
 
 3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
    <img src="Capturas/resolucion%20ejer.png" width=1000>
+   
+MATERIAL Y EQUIPO DE APOYO
 
+   <img src="Capturas/elementos.PNG" width=400>
+   
+PROCEDIMIENTO
 
-4. ** VIDEO**
+ Arme el circuito que se muestra en la figura 1.1
+   <img src="Capturas/circuito%20sin%20nadax2.PNG" width=800>
+   
+   <img src="Capturas/circuito%20sin%20nada.PNG" width=400>
+   
+Medición del voltaje y corriente en cada uno de los elementos del circuito. 
+Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
+
+   <img src="Capturas/tabla%201.PNG" width=400>
+   
+   Tabla 1.2 Verificación de la LVK
+   
+   <img src="Capturas/tabla%202.PNG" width=400>
+   
+   Tabla 1.3 Verificación de la LCK
+   
+   <img src="Capturas/tabla%203.PNG" width=400>
+   
+   Comparación de resultados medidos con los valores obtenidos al analizar el circuito analíticamente. 
+   
+   <img src="Capturas/voltaje.PNG" width=400>
+   
+   <img src="Capturas/intensidad.PNG" width=400>
+  
+4. **VIDEO**
 
 
 5. **CONCLUSIONES**
@@ -67,12 +96,12 @@ Se describe la teoría o conjunto teórico apropiado con la cual el investigador
 
 - La entrada de corriente de una trayectoria se complementa de izquierda a derecha es decir que el exceso de  una trayectoria 1 se dirige a la  trayectoria 2 y el exceso de
 
+**RECOMENDACIONES**
 
+- Se recomienda terminar de realizar bien el circuito antes de ejecutarlo.
+- Se recomienda tomar en cuenta siempre el porcentaje de error que existe entre los cálculos de los circuitos. 
 
-      
-
-
-BIBLIOGRAFÍA
+**BLIOGRAFÍA**
 
 *eduMedia. (2021).* Leyes de kirchhoff. *Obtenido de:* https://www.edumedia-sciences.com/es/media/510-leyes-de-kirchhoff
 
