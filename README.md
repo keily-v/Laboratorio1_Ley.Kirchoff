@@ -16,13 +16,14 @@
 ## **TEMA:**  Leyes de Kirchoff
 ------------
 
-1. **OBJETIVOS**
+ 2. **OBJETIVOS**
+ ------------
 
-### Objetivo General:
+#### Objetivo General:
 
  - Analizar mediante los leyes de kirchoff las caídas de voltaje y distribución de corriente en cualquier circuito. 
 
-### Objetivos Específicos:
+#### Objetivos Específicos:
 
  - Verificar por medio de cálculos analíticos que la suma de las corrientes que entran en un nodo es la suma de las corrientes que salen.
  - Comparar los valores medidos y calculados para obtener una porcentaje de error de los resultados. 
@@ -58,9 +59,6 @@ PROCEDIMIENTO
  
    <img src="Capturas/circuito%20sin%20nadax2.PNG" >
    
-   Materiales
-   
-   <img src="Capturas/elementos.PNG" >
    
    <img src="Capturas/circuito%20sin%20nada.PNG">
    
