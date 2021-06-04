@@ -50,56 +50,47 @@
    
 MATERIAL Y EQUIPO DE APOYO
 
-   <img src="Capturas/materiaes%20doc.PNG" >
+   <img src="Capturas/materiaes%20doc.PNG" width=400 >
    
    
 PROCEDIMIENTO
 
  Arme el circuito que se muestra en la figura 1.1
  
-   <img src="Capturas/circuito%20sin%20nadax2.PNG" >
+   <img src="Capturas/circuito%20sin%20nadax2.PNG" width=600 >
    
    
-   <img src="Capturas/circuito%20sin%20nada.PNG">
+   <img src="Capturas/Tabla_1.PNG" width=800 >
    
-  Medición del voltaje y corriente en cada uno de los elementos del circuito.
+ 
+   <img src="Capturas/tabla2.PNG" width=800 >
   
- Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito
+   
+   <img src="Capturas/tabla3.PNG" width=600 >
+   
+   
+   <img src="Capturas/tabla4.PNG" width=600 >
+   
+   
+   <img src="Capturas/tabla5.PNG" width=600 >
+   
 
-   <img src="Capturas/tabla%201.PNG" >
-   
- Tabla 1.2 Verificación de la LVK
-   
-   <img src="Capturas/tabla%202.PNG" >
-   
- Tabla 1.3 Verificación de la LCK
-   
-   <img src="Capturas/tabla%203.PNG" >
-   
- Comparación de resultados medidos con los valores obtenidos al analizar el circuito analíticamente. 
-   
-   <img src="Capturas/voltaje.PNG" >
-   
-   <img src="Capturas/intensidad.PNG" >
-  
 4. **VIDEO**
 
+[Circuito Mixto Tinkercad ](http://https://youtu.be/JEmD1EWamV4 "Circuito Mixto Tinkercad ")
 
 5. **CONCLUSIONES**
 
-- La corriente que entró a las nodos a y b no se almacenaron, por el contrario se distribuye por las ramas que conforman el nodo. Es decir, no se alamcena nada en la fuente. En el circuito mixto de la práctica se evidencia que la corriente que sale en el nodo "b" es IT e I1 y entra I2 de modo que se equilibra la corriente demostrando la primera ley de kirchoff. 
+- La corriente que entró a las nodos 1 y 2 no se almacenaron, por el contrario se distribuye por las ramas que conforman el nodo. En el circuito mixto de la práctica se evidencia que la corriente que sale en el nodo "1" es IT y entra I1 e I2 de modo que se equilibra la corriente demostrando la primera ley de kirchoff. 
      
-- La fuente de voltaje que se encarga de suministar energía se tiene que equilibrar con todo lo que se está perdiendo en las caídas de potencial.
-- Las resistencias se encargan de abosrben la energía y hace que la corriente se frene y a consecuencia de eso hay una caída de voltaje. Los 10 Volts de entrada se consumieron en el circuito. 
+- La fuente de voltaje que se encarga de suministar energía se tiene que equilibrar con todo lo que se está perdiendo en las caídas de potencial. Las resistencias se encargan de absorber la energía y hace que la corriente se frene y a consecuencia de eso hay una caída de voltaje. Los 10 Volts de entrada se consumieron en el circuito. 
 
 - Con la práctica de laboratorio aprendimos que las leyes de Kirchhoff son una herramienta muy útil para analizar los circuitos de una manera sencilla. Se encontró de forma teórica los valores de corriente que fluye por el circuito y las caídas de voltaje que se producen a causa de las resistencias. 
 
 - Conocimos más sobre estas leyes y cómo funcionan cada una, a la hora de realizar el circuito en el emulador y se comprobó que los valores calculados con los medidas fueron similares. Se debe mencionar que en las operaciones se empleó las cifras significativas. 
 
-- Se concluyó que en las trayectorias se componen de nodos y mallas lo que nos permitió visualizar de manera más sencilla el comportamiento de la corriente. 
-
-
-----------Se recomienda tomar en cuenta siempre el porcentaje de error que existe entre los cálculos de los circuitos. 
+- Se concluyó que en las trayectorias se componen de nodos y mallas lo que nos permitió visualizar de manera más sencilla el comportamiento de la corriente. Del nodo 1 no existe  porcentaje de error entre el valor de la corriente calculada con el medido evidenciando así que  los cálculos realizados fueron exactos.
+- El porcentaje de error en el voltaje de R5 de la trayectoria 1 fue de 0.27% lo que indica una diferencia pequeña entre el valor estimado y el valor real. 
 
 **BLIOGRAFÍA**
 
