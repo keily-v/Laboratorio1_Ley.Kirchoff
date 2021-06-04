@@ -77,7 +77,7 @@ PROCEDIMIENTO
 
 4. **VIDEO**
 
-[Circuito Mixto Tinkercad ](https://www.youtube.com/watch?v=JEmD1EWamV4&ab_channel=LENINQUILUMBA ")
+[Circuito Mixto Tinkercad](http://https://www.youtube.com/watch?v=JEmD1EWamV4&ab_channel=LENINQUILUMBA "Circuito Mixto Tinkercad")
 
 5. **CONCLUSIONES**
 
