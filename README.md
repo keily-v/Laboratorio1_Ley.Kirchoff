@@ -74,6 +74,11 @@ PROCEDIMIENTO
    
    <img src="Capturas/tabla5.PNG" width=600 >
    
+   Simulador 
+   <img src="Capturas/simulador%2011111.jpeg"  >
+   
+   <img src="Capturas/simulador%20222222.jpeg"  >
+   
 
 4. **VIDEO**
 
